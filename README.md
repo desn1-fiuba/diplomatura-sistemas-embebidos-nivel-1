@@ -51,4 +51,11 @@ Cada materia cuenta con una carpeta propia donde se organizarán las clases, dia
 
 ## Estado
 
-Repositorio en construcción.
+<img src="assets/img/trabajo-en-la-carretera.png" alt="Repositorio en construcción" width="80">
+
+Repositorio en construcción. El material se actualizará progresivamente durante el desarrollo de la diplomatura.
+
+## Créditos de íconos
+
+- Ícono de estado en construcción obtenido de [Flaticon](https://www.flaticon.com/).  
+  Se incluye la atribución correspondiente según la licencia del recurso utilizado.
