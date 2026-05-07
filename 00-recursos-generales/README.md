@@ -7,6 +7,7 @@ La documentación se organiza en torno a tres niveles:
 1. La placa de desarrollo NUCLEO-F446RE.
 2. El microcontrolador STM32F446RE.
 3. El procesador ARM Cortex-M4.
+4. El entorno de desarrollo, las herramientas STM32Cube y las bibliotecas HAL/LL.
 
 Se recomienda consultar siempre los enlaces oficiales, ya que los fabricantes pueden actualizar los documentos técnicos con nuevas revisiones.
 

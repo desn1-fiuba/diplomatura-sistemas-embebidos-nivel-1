@@ -15,7 +15,35 @@ La diplomatura está organizada en tres materias:
 - Placa de desarrollo: NUCLEO-F446RE.
 - Entorno de desarrollo: STM32CubeIDE.
 - Lenguaje de programación: C.
-- Herramientas auxiliares: Git, GitHub, terminal serie y osciloscopio.
+- Herramientas auxiliares: Git, GitHub y terminal serie.
+
+## Bibliografía base de la diplomatura
+
+La Diplomatura en Sistemas Embebidos - Nivel 1 toma como una de sus referencias principales el libro:
+
+**A Beginner’s Guide to Designing Embedded System Applications on Arm Cortex-M Microcontrollers**  
+Ariel Lutenberg, Pablo Gomez y Eric Pernia  
+Arm Education Media, 2022.
+
+- [Página de descarga del libro - Arm Education Media / DigiKey](https://www.arm.com/resources/education/books/designing-embedded-systems)
+
+Este libro adopta un enfoque de aprendizaje práctico basado en actividades progresivas sobre microcontroladores Arm Cortex-M. Su propuesta resulta especialmente adecuada para cursos introductorios de sistemas embebidos, ya que presenta conceptos fundamentales mediante ejemplos incrementales y orientados a la implementación.
+
+En la diplomatura, el libro se utiliza como bibliografía de referencia para acompañar el desarrollo de contenidos relacionados con:
+
+- introducción a los sistemas embebidos;
+- programación de microcontroladores Arm Cortex-M;
+- comunicación serie;
+- manejo de GPIO;
+- temporizadores;
+- señales analógicas;
+- interrupciones;
+- comunicación I2C, SPI y UART;
+- almacenamiento en memoria SD;
+- organización modular del firmware;
+- diseño e implementación de proyectos embebidos.
+
+> Nota: por razones de derechos de autor, el repositorio no almacena una copia local del libro. Se recomienda acceder siempre al material mediante los enlaces oficiales o autorizados por el editor.
 
 ## Organización del repositorio
 
