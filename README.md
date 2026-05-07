@@ -49,6 +49,14 @@ En la diplomatura, el libro se utiliza como bibliografía de referencia para aco
 
 Cada materia cuenta con una carpeta propia donde se organizarán las clases, diapositivas, consignas, ejemplos y recursos correspondientes.
 
+## Equipo docente
+
+- **Esp. Ing. Mariano Campos**  
+  <img src="assets/icons/correo-electronico.png" alt="Correo electrónico" width="18"> [lmcampos@fi.uba.ar](mailto:lmcampos@fi.uba.ar)
+
+- **Dr. Lic. Federico Farfán**  
+  <img src="assets/icons/correo-electronico.png" alt="Correo electrónico" width="18"> [farfan.roberto.f@gmail.com](mailto:farfan.roberto.f@gmail.com)
+
 ## Estado
 
 <img src="assets/img/trabajo-en-la-carretera.png" alt="Repositorio en construcción" width="80">
