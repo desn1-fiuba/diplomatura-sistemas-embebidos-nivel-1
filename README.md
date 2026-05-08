@@ -52,10 +52,10 @@ Cada materia cuenta con una carpeta propia donde se organizarán las clases, dia
 ## Equipo docente
 
 - **Esp. Ing. Mariano Campos**  
-  <img src="assets/icons/correo-electronico.png" alt="Correo electrónico" width="18"> [lmcampos@fi.uba.ar](mailto:lmcampos@fi.uba.ar)
+  <img src="assets/img/correo-electronico.png" alt="Correo electrónico:" width="18"> [lmcampos@fi.uba.ar](mailto:lmcampos@fi.uba.ar)
 
 - **Dr. Lic. Federico Farfán**  
-  <img src="assets/icons/correo-electronico.png" alt="Correo electrónico" width="18"> [farfan.roberto.f@gmail.com](mailto:farfan.roberto.f@gmail.com)
+  <img src="assets/img/correo-electronico.png" alt="Correo electrónico:" width="18"> [farfan.roberto.f@gmail.com](mailto:farfan.roberto.f@gmail.com)
 
 ## Estado
 
